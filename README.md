@@ -14,9 +14,9 @@ I love turning data into useful information for decision making.
 
 ## Featured Projects
 
-- **Banco Nacional de Panamá Payroll Analysis**:
-  **Skills Used**:
-
+- **Banco Nacional de Panamá Payroll Analysis:**
+- Skills Used:
+  
 - Data cleaning and transformation with Query Editor.
 - Data relationship management.
 - DAX queries and report creation with Power BI.
