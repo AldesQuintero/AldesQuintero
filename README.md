@@ -20,8 +20,8 @@ I love turning data into useful information for decision making.
 - Data relationship management.
 - DAX queries and report creation with Power BI.
 - Printing and exporting reports.
-  
-  **Description**: Data analysis project for Banco Nacional de Panamá payroll. Public data was extracted from XLS and CSV files, organized and transformed to eliminate redundancies. Results were presented through visualizations and interactive reports in Power BI, identifying key trends and salary patterns.
+
+**Description**: Data analysis project for Banco Nacional de Panamá payroll. Public data was extracted from XLS and CSV files, organized and transformed to eliminate redundancies. Results were presented through visualizations and interactive reports in Power BI, identifying key trends and salary patterns.
 
 
 ## Contact
