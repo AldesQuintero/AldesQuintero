@@ -1,29 +1,25 @@
-# Hi, I'm Aldes Quintero 👋
+# Hola, soy Aldes Quintero 👋 ## Sobre mí
+Tengo habilidades como analista de datos en:
+- Limpieza y transformación de datos con Query Editor.
+- Manejo de relaciones entre datos.
+- Consultas DAX y creación de reportes con Power BI.
+- Relaciones entre tablas y manejo de DAX.
+- Introducción a paquetes de contenido, seguridad y grupos en Power BI.
+- Impresión y exportación de reportes.
+- Uso de Power BI Mobile para reportes.
 
-## About Me
-  I am a data analyst with skills in:
-- Data cleansing and transformation with Query Editor.
-- Handling relationships between data.
-- DAX queries and report creation with Power BI.
-- Relationships between tables and handling DAX.
-- Introduction to content packs, security, and groups in Power BI.
-- Printing and exporting reports.
-- Using Power BI Mobile for reports.
+Me encanta convertir datos en información útil para la toma de decisiones.
 
-I love turning data into useful information for decision making.
+## Proyectos destacados Análisis de nómina del Banco Nacional de Panamá: **Habilidades utilizadas**: - Limpieza y transformación de datos con Query Editor.
+- Manejo de relaciones entre datos.
+- Consultas DAX y creación de reportes con Power BI.
+- Impresión y exportación de reportes.
 
-## Featured Projects
-  Banco Nacional de Panamá Payroll Analysis:
+## Portafolio
+- **Analísis de Datos**: https://github.com/AldesQuintero/Analisis-de-Datos
 
-  **Skills Used**:
-- Data cleaning and transformation with Query Editor.
-- Data relationship management.
-- DAX queries and report creation with Power BI.
-- Printing and exporting reports.
+**Descripción**: Durante la toma de cursos de Power BI: Visualización y Analísis de Datos, he aprendido difentes talleres que se nos ponían y los guardo aquí como mmuestra de ello. También en mis tiempos de ocio o por simple experimentación para poner en práctica mis habilidades, me bajé unos archivos píblicos de la planilla del Banco Nacional de Panamá en formato xlsx y vcs, eliminando entonces datos redundantes y creando una presentación más ordenada de los datos, en ese caso del salario del personal en los meses de julio y septiembre del 2024.
 
-**Description**: Data analysis project for Banco Nacional de Panamá payroll. Public data was extracted from XLS and CSV files, organized and transformed to eliminate redundancies. Results were presented through visualizations and interactive reports in Power BI, identifying key trends and salary patterns.
-
-
-## Contact
+## Contacto
 - **Email**: aldesquintero@outlook.com
 - **LinkedIn**: https://linkedin.com/in/aldesquintero
