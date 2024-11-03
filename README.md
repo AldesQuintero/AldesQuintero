@@ -1,4 +1,5 @@
-# Hola, soy Aldes Quintero 👋 ## Sobre mí
+# Hola, soy Aldes Quintero 👋 
+## Sobre mí
 Tengo habilidades como analista de datos en:
 - Limpieza y transformación de datos con Query Editor.
 - Manejo de relaciones entre datos.
