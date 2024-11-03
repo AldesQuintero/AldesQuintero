@@ -11,11 +11,6 @@ Tengo habilidades como analista de datos en:
 
 Me encanta convertir datos en información útil para la toma de decisiones.
 
-## Proyectos destacados Análisis de nómina del Banco Nacional de Panamá: **Habilidades utilizadas**: - Limpieza y transformación de datos con Query Editor.
-- Manejo de relaciones entre datos.
-- Consultas DAX y creación de reportes con Power BI.
-- Impresión y exportación de reportes.
-
 ## Portafolio
 - **Analísis de Datos**: https://github.com/AldesQuintero/Analisis-de-Datos
 
