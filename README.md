@@ -1,6 +1,7 @@
 # Hola, soy Aldes Quintero 👋 
 ## Sobre mí
 Tengo habilidades en:
+
 -Creación de instancias en AWS
 -Creación de instancias Linux en Azure
 -Manejo de Linux (Fedora, Ubuntu, Debian)
