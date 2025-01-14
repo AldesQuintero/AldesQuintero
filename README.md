@@ -2,15 +2,15 @@
 ## Sobre mí
 Tengo habilidades en:
 
-- Creación de instancias en AWS
-- Creación de instancias Linux en Azure
-- Manejo de Linux (Fedora, Ubuntu, Debian)
-- Manejo intermedio en equipos de switches y routers, incluyendo cableado
-- Programación intermedia en Python, manejo como framework Flask
-- Programación básica en Java, manejo de framework Spring Boot 
-- Base de datos MySQL y MariaDB
-- SQL Server
-- Power BI: Análisis y Visualización de Datos (17 de julio 2024 - 2 de septiembre 2024)
+-  **Lenguajes de programación:** Python (Flask), Java (Spring Boot).
+- **Software:** Microsoft Visual Studio Code, IntelliJ IDEA, Virtual Box, Cisco Packet Tracer.
+- **Sistemas Operativos:** Windows, Linux.
+- **Bases de datos:** MySQL, SQL Server, MongoDB.
+- **Cloud:** AWS (Intermedio): Configuración de instancias EC2, gestión de S3, Lightsail, Amazon 
+Lambda, configuración de máquinas virtuales y Azure (Básico): Gestión básica de recursos en el 
+portal y configuración de máquinas virtuales. 
+- **Redes y telecomunicaciones:** Configuración de routers y switches (incluyendo VLAN, OSPF, 
+Asignación IP). 
 
 ## Portafolio Disponible
 - **Analísis de Datos**: https://github.com/AldesQuintero/Analisis-de-Datos
